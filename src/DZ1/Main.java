@@ -1,3 +1,8 @@
+package DZ1;
+
+import DZ1.HotDrink;
+import DZ1.HotDrinksMashine;
+
 public class Main {
     public static void main(String[] args) {
         HotDrink tea = new HotDrink("Чай", 250, 80);

@@ -1,3 +1,5 @@
+package DZ1;
+
 public class HotDrink {
     private String name;
     private int volume;

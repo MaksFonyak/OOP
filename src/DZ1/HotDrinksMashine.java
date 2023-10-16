@@ -1,3 +1,8 @@
+package DZ1;
+
+import DZ1.DrinksMashine;
+import DZ1.HotDrink;
+
 import java.util.ArrayList;
 import java.util.List;
 
